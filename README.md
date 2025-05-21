@@ -23,8 +23,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: My tongue can touch my nose (suprisingly rare from my own statistics)
 - 🤔 Once I have finished my masters I will be looking for help on finding a project that link economy (post keynsian) and cryptocurrency
 
-Here are some videos of projects I have worked on:
+Here are some videos of projects I have worked on (gifs take time to load):
 
-![thymio](thymio_final.gif)
-![aerial](lowresfinal_aerial.gif)
-![legged](lowresfinal.gif)
+<table>
+  <tr>
+    <td><img src="gifs/thymio_final.gif" alt="Thymio robot"></td>
+  </tr>
+  <tr>
+    <td><img src="gifs/lowresfinal_legged.gif" alt="GIF 3"></td>
+    <td><img src="gifs/lowresfinal_aerial_2.gif" alt="GIF 4"></td>
+  </tr>
+</table>
+
