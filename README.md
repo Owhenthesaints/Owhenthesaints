@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 - 🤔 Once I have finished my masters I will be looking for help on finding a project that link economy (post keynsian) and cryptocurrency
 
 Here are some videos of projects I have worked on:
+
 ![thymio](thymio_final.gif)
-![aerial](aerial_final.gif)
-![legged](lowfps_final.gif)
+![aerial](lowresfinal_aerial.gif)
+![legged](lowresfinal.gif)
