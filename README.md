@@ -1,4 +1,4 @@
-## Hi there 👋, My name is Owhenthesaints, feel free to look at my repos
+## Hi there 👋, I'm Owhenthesaints, feel free to look at my repos
 
 <!--
 **Owhenthesaints/Owhenthesaints** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
