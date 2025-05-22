@@ -28,6 +28,7 @@ Here are some videos of projects I have worked on (gifs take time to load):
 <table>
   <tr>
     <td><img src="gifs/thymio_final.gif" alt="Thymio robot"></td>
+    <td><img src="gifs/lowres_comp.gif" alt="Thymio robot"></td>
   </tr>
   <tr>
     <td><img src="gifs/lowres_legged.gif" alt="GIF 3"></td>
